@@ -1,0 +1,22 @@
+{
+    "apiFields": [
+        {
+            "idValue": "lWs_WVisjo",
+            "fieldId": "title",
+            "name": "タイトル",
+            "kind": "text",
+            "isUnique": false
+        },
+        {
+            "fieldId": "body",
+            "name": "本文",
+            "kind": "textArea"
+        },
+        {
+            "fieldId": "visible",
+            "name": "表示",
+            "kind": "boolean"
+        }
+    ],
+    "customFields": []
+}
